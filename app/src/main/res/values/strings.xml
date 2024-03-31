@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Sciflare_Assessment_App</string>
+
+    <string name="no_instance_found">No instance found</string>
+    <string name="add_user">Add User</string>
+    <string name="edit_user">Edit User Data</string>
+    <string name="enter_name">Enter name</string>
+    <string name="enter_mobile_number">Enter Mobile Number</string>
+    <string name="enter_gender">Enter Gender</string>
+    <string name="add">Add</string>
+    <string name="update">Update</string>
+    <string name="enter_email">Enter email (Optional)</string>
+
+</resources>
